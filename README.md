@@ -5,5 +5,12 @@ This research paper presents a novel large language model specifically fine-tune
 ## Data
 The data for this project was obtained from the University of Chicago Medicine, consisting of 789,280 de-identified radiology reports. 
 
-## Models
-We have already tried two models Alpaca-7b (in  and Medalpaca7b
+## Current Progress
+We have already tried two models Alpaca-7b (code in alpaca-7b.ipynb) and Medalpaca7b (code in medapaca-7b.ipynb) on Sono Types (6577 records in total). More detail about our methodology, result and analysis could be found in our propposal. In general, the model is capable of generating appropriate impression text but there are still limitations that need to be addressed and few areas of improvement to consider.
+
+## Next Steps:
+- Also include the clinical historical information as one part of the input.
+- Consider the order of the impression, which means that in addition to generating accurate impressions, we need to ensure that the order or sequence of the impressions is meaningful and coherent.
+- Try Other Models: 4 models will be deployed in total and the best one among the one will be selected.
+- Run the model on other modalities (CT, X-ray, Ultrasound … etc)
+- Build and Refine Output API
