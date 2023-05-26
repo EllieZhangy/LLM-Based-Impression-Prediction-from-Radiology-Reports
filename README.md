@@ -4,3 +4,6 @@ This research paper presents a novel large language model specifically fine-tune
 
 ## Data
 The data for this project was obtained from the University of Chicago Medicine, consisting of 789,280 de-identified radiology reports. 
+
+## Models
+We have already tried two models Alpaca-7b (in  and Medalpaca7b
