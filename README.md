@@ -11,6 +11,6 @@ We have already tried two models Alpaca-7b (code in Capstone_Code.ipynb) and Med
 ## Next Steps
 - Also include the clinical historical information as one part of the input.
 - Consider the order of the impression, which means that in addition to generating accurate impressions, we need to ensure that the order or sequence of the impressions is meaningful and coherent.
-- Try Other Models: 4 models will be deployed in total and the best one among the one will be selected.
+- Try Other Models including Vicuna: 4 models will be deployed in total and the best one among the one will be selected.
 - Run the model on other modalities (CT, X-ray, Ultrasound … etc).
 - Build and Refine Output API.
