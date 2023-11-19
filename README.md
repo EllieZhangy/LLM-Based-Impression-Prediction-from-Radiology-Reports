@@ -7,7 +7,7 @@ The data for this project was obtained from the University of Chicago Medicine, 
   <img width="450" alt="image" src="https://github.com/EllieZhangy/GPT-LLM-Based-Impression-Prediction-from-Radiology-Reports/assets/133906690/2e8ae0fe-3a99-4b86-8398-7791a774b8e3">
 </p>
 
-Our data is textual, well-organized, and covers multiple modalities. And we chose MRI for modeling considering the data size.
+Our data is textual, well-organized, and covers multiple modalities. We chose MRI for modeling considering the data size.
 
 
 ## Methodology
