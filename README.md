@@ -3,12 +3,29 @@ Our project aims to utilize large language models to generate accurate words for
 
 ## Data
 The data for this project was obtained from the University of Chicago Medicine, consisting of 789,280 de-identified radiology reports. 
+<img width="319" alt="image" src="https://github.com/EllieZhangy/GPT-LLM-Based-Impression-Prediction-from-Radiology-Reports/assets/133906690/2e8ae0fe-3a99-4b86-8398-7791a774b8e3">
+Our data is textual, well-organized, and covers multiple modalities. And we chose MRI for modeling considering the data size.
+
 
 ## Methodology
-Several large language models are experimented including Alpaca- 7b, Medalpaca-7b, Llama 2.0-7b, Llama 2.0-13b and Mistral-7b.
+Here is the workflow of our project:
+<p align="center">
+  <img width="800" alt="Screen Shot 2023-11-19 at 12 04 07 AM" src="https://github.com/EllieZhangy/GPT-LLM-Based-Impression-Prediction-from-Radiology-Reports/assets/133906690/5ae86f3f-5f74-42e2-a49e-4b0a827930ea">
+</p>
+
+Several large language base models are experimented including **Alpaca- 7b, Medalpaca-7b, Llama 2.0-7b, Llama 2.0-13b and Mistral-7b**:
+<p align="center">
+  <img width="800" alt="Screen Shot 2023-11-19 at 12 05 09 AM" src="https://github.com/EllieZhangy/GPT-LLM-Based-Impression-Prediction-from-Radiology-Reports/assets/133906690/d2fd1258-b23b-4fc8-8e9c-b12783b690aa">
+</p>
+
+The selection of the model is based on:
+- Open-Source Availability
+- Manageable Model Size
+- Proven Performance
+
 
 ## Model Evaluation
-To comprehensively assess the performance of the models in generating precise impressions from patients' medical findings and background information, ROUGE scores have been selected as the primary evaluation metrics. The baseline results for comparison are derived from the paper titled 'Customized Impression Prediction from Radiology Reports Using BERT and LSTMs'.[1]
+To comprehensively assess the performance of the models in generating precise impressions from patients' medical findings and background information, **ROUGE scores** have been selected as the primary evaluation metrics. The baseline results for comparison are derived from the paper titled 'Customized Impression Prediction from Radiology Reports Using BERT and LSTMs'.[1]
 
 Here is the result:
 <p align="center">
