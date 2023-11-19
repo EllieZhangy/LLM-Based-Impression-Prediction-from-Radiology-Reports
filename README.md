@@ -11,11 +11,15 @@ Several large language models are experimented including Alpaca- 7b, Medalpaca-7
 To comprehensively assess the performance of the models in generating precise impressions from patients' medical findings and background information, ROUGE scores have been selected as the primary evaluation metrics. The baseline results for comparison are derived from the paper titled 'Customized Impression Prediction from Radiology Reports Using BERT and LSTMs'.[1]
 
 Here is the result:
-<img width="916" alt="Screen Shot 2023-11-18 at 11 54 11 PM" src="https://github.com/EllieZhangy/GPT-LLM-Based-Impression-Prediction-from-Radiology-Reports/assets/133906690/6053f853-f396-4fee-bff2-4941bc4659b7">
+<p align="center">
+  <img width="916" alt="Screen Shot 2023-11-18 at 11 54 11 PM" src="https://github.com/EllieZhangy/GPT-LLM-Based-Impression-Prediction-from-Radiology-Reports/assets/133906690/6053f853-f396-4fee-bff2-4941bc4659b7">
+</p>
 
 ## Demo
 Here's an example of output of Mistral-7b model provided by Hugging Face:
-<img width="778" alt="image" src="https://github.com/EllieZhangy/GPT-LLM-Based-Impression-Prediction-from-Radiology-Reports/assets/133906690/0c1a0b94-8e58-4087-af1d-a43db61e641e">
+<p align="center">
+  <img width="1000" alt="image" src="https://github.com/EllieZhangy/GPT-LLM-Based-Impression-Prediction-from-Radiology-Reports/assets/133906690/0c1a0b94-8e58-4087-af1d-a43db61e641e">
+</p>
 
 
 ## Reference
