@@ -25,7 +25,7 @@ The selection of the model is based on:
 - Open-Source Availability
 - Manageable Model Size
 - Proven Performance
-
+- Use Case
 
 ## Model Evaluation
 To comprehensively assess the performance of the models in generating precise impressions from patients' medical findings and background information, **ROUGE scores** have been selected as the primary evaluation metrics. The baseline results for comparison are derived from the paper titled 'Customized Impression Prediction from Radiology Reports Using BERT and LSTMs'.[1]
