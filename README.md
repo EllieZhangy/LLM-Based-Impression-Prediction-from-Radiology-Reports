@@ -32,7 +32,7 @@ To comprehensively assess the performance of the models in generating precise im
 
 Here is the result:
 <p align="center">
-  <img width="750" alt="Screen Shot 2023-11-18 at 11 54 11 PM" src="https://github.com/EllieZhangy/GPT-LLM-Based-Impression-Prediction-from-Radiology-Reports/assets/133906690/6053f853-f396-4fee-bff2-4941bc4659b7">
+<img width="750" alt="Screen Shot 2023-11-23 at 5 24 48 PM" src="https://github.com/EllieZhangy/GPT-LLM-Based-Impression-Prediction-from-Radiology-Reports/assets/133906690/c3e9270d-ac09-4689-a7ff-570c31cd47e8">
 </p>
 
 ## Demo
