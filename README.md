@@ -36,7 +36,7 @@ Here is the result:
 </p>
 
 ## Demo
-Here's an example of output of Mistral-7b model provided by Hugging Face:
+Below is an example demonstrating our user-friendly interface, developed with Gradio, utilizing the fine-tuned Mistral 7b model:
 <p align="center">
   <img width="1000" alt="image" src="https://github.com/EllieZhangy/GPT-LLM-Based-Impression-Prediction-from-Radiology-Reports/assets/133906690/0c1a0b94-8e58-4087-af1d-a43db61e641e">
 </p>
