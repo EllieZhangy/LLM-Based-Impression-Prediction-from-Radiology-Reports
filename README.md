@@ -16,7 +16,7 @@ Here is the workflow of our project:
   <img width="800" alt="Screen Shot 2023-11-19 at 12 04 07 AM" src="https://github.com/EllieZhangy/GPT-LLM-Based-Impression-Prediction-from-Radiology-Reports/assets/133906690/5ae86f3f-5f74-42e2-a49e-4b0a827930ea">
 </p>
 
-Several large language base models are experimented including **Alpaca- 7b, Medalpaca-7b, Llama 2.0-7b, Llama 2.0-13b and Mistral-7b**:
+Several large language base models are experimented including **Alpaca-7b, Medalpaca-7b, Llama2-7b, Llama2-13b and Mistral-7b**:
 <p align="center">
   <img width="800" alt="Screen Shot 2023-11-19 at 12 05 09 AM" src="https://github.com/EllieZhangy/GPT-LLM-Based-Impression-Prediction-from-Radiology-Reports/assets/133906690/d2fd1258-b23b-4fc8-8e9c-b12783b690aa">
 </p>
@@ -36,7 +36,7 @@ Here is the result:
 </p>
 
 ## Demo
-Below is an example demonstrating our user-friendly interface, developed with Gradio, utilizing the fine-tuned Mistral-7b model:
+Below is an example demonstrating our user-friendly interface, developed with Gradio, utilizing the **fine-tuned Mistral-7b model**:
 <p align="center">
   <img width="1000" alt="image" src="https://github.com/EllieZhangy/GPT-LLM-Based-Impression-Prediction-from-Radiology-Reports/assets/133906690/0c1a0b94-8e58-4087-af1d-a43db61e641e">
 </p>
