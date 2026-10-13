@@ -119,6 +119,7 @@ Notebook environments and external model dependencies may have changed since the
 
 ## Selected work
 
+- [Ming Oracle](https://ming-oracle-eta.vercel.app/) — a bilingual AI experience combining computed BaZi structure with symbolic personal reflection.
 - [AI Driving School](https://elliezhangy.github.io/ai-driving-school/) — a voice- and text-controlled Chinese parking game.
 - [Daily Mood Screen](https://github.com/EllieZhangy/Daily-Mood-Screen) — a personalized macOS wallpaper pipeline using weather, photos, and mood.
-- [Memory Studio](https://github.com/EllieZhangy/my-ai-poster-skills) — a photo-to-poster web app with reusable visual styles.
+- [Memory Studio](https://github.com/EllieZhangy/memory-studio) — a photo-to-poster web app with reusable visual styles.
