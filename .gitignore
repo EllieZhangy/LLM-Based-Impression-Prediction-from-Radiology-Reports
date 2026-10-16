@@ -1,0 +1,3 @@
+# Keep local evaluation text artifacts out of the public repository.
+reference_summaries.txt
+generated_texts.txt
